@@ -1,4 +1,4 @@
-# Bernie In Places
+# Boskurr In Places
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 An app that accidentally went viral! [Read the story in WIRED here](https://www.wired.com/story/bernie-sanders-meme-street-view-site/)
